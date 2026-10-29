@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://www2.certidox.com/assets/images/logo-light2.png" alt= "Certidox logo " width= "200 ">
+  <img src= "https://www2.certidox.com/assets/images/logo-light2.png" alt= "Certidox logo " width= "350 ">
 </p>
 
 <h1 align="center">Welcome to the Certidox Repository</h1>
